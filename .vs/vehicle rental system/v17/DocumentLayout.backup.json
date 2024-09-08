@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|c:\\users\\user\\desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|solutionrelative:vehicle rental system\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|c:\\users\\user\\desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\corporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|solutionrelative:vehicle rental system\\corporatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|c:\\users\\user\\desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|solutionrelative:vehicle rental system\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|c:\\users\\user\\desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|solutionrelative:vehicle rental system\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|c:\\users\\user\\desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|solutionrelative:vehicle rental system\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|c:\\users\\user\\desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\vehiclerental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|solutionrelative:vehicle rental system\\vehiclerental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|c:\\users\\user\\desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62991059-1AE1-4F66-84C0-3AA7117197DB}|vehicle rental system\\vehicle rental system.csproj|solutionrelative:vehicle rental system\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorporateCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\CorporateCustomer.cs",
+              "RelativeDocumentMoniker": "vehicle rental system\\CorporateCustomer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\CorporateCustomer.cs",
+              "RelativeToolTip": "vehicle rental system\\CorporateCustomer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:29:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegularCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\RegularCustomer.cs",
+              "RelativeDocumentMoniker": "vehicle rental system\\RegularCustomer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\RegularCustomer.cs*",
+              "RelativeToolTip": "vehicle rental system\\RegularCustomer.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:29:19.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\ICustomer.cs",
+              "RelativeDocumentMoniker": "vehicle rental system\\ICustomer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\ICustomer.cs",
+              "RelativeToolTip": "vehicle rental system\\ICustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:24:45.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\Truck.cs",
+              "RelativeDocumentMoniker": "vehicle rental system\\Truck.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\Truck.cs",
+              "RelativeToolTip": "vehicle rental system\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:16:51.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\Car.cs",
+              "RelativeDocumentMoniker": "vehicle rental system\\Car.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\Car.cs",
+              "RelativeToolTip": "vehicle rental system\\Car.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:14:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\Vehicle.cs",
+              "RelativeDocumentMoniker": "vehicle rental system\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\Vehicle.cs",
+              "RelativeToolTip": "vehicle rental system\\Vehicle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:56:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleRental.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\VehicleRental.cs",
+              "RelativeDocumentMoniker": "vehicle rental system\\VehicleRental.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\vehicle rental system\\vehicle rental system\\vehicle rental system\\VehicleRental.cs",
+              "RelativeToolTip": "vehicle rental system\\VehicleRental.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:42:44.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

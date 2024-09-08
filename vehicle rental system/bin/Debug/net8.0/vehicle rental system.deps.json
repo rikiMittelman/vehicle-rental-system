@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "vehicle rental system/1.0.0": {
+        "runtime": {
+          "vehicle rental system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vehicle rental system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
